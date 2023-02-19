@@ -5,3 +5,11 @@ lets try again
 
 some text
 
+## new development 
+
+we have come quite far lolz sis
+
+add code in index.html
+
+
+
